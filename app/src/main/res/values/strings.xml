@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FactorioHandbook</string>
+    <string name="era1">Эпохи</string>
+    <string name="pattern">Схемы</string>
+    <string name="recom">Советы</string>
+</resources>

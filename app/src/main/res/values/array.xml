@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="item">
+        <item>Эпоха 1. Железо и медь</item>
+        <item>Эпоха 2. Медь и электричество</item>
+        <item>Эпоха 3. Химия и экология</item>
+        <item>Эпоха 4. Поезда и конец игры</item>
+    </string-array>
+    <string-array name="item_content">
+        <item>описаниеописаниеописаниеописаниеописаниеописаниеописаниe</item>
+        <item>описаниеописаниеописаниеописаниеописаниеописаниеописаниe</item>
+        <item>описаниеописаниеописаниеописаниеописаниеописаниеописаниe</item>
+        <item>описаниеописаниеописаниеописаниеописаниеописаниеописаниe</item>
+
+    </string-array>
+    <array name="item_image">
+        <item>@drawable/era1</item>
+        <item>@drawable/era2</item>
+        <item>@drawable/era3</item>
+        <item>@drawable/era4</item>
+    </array>
+
+
+
+
+    <string-array name="item_1">
+        <item>Красные пакеты исследований</item>
+        <item>Зелёные пакеты исследований</item>
+        <item>Чёрные пакеты исследований</item>
+        <item>Голубые пакеты исследований</item>
+        <item>Фиолетовые пакеты исследований</item>
+        <item>Жёлтые пакеты исследований</item>
+    </string-array>
+    <string-array name="item_1_content">
+        <item>описаниеописаниеописаниеописаниеописаниеописаниеописаниe</item>
+        <item>описаниеописаниеописаниеописаниеописаниеописаниеописаниe</item>
+        <item>описаниеописаниеописаниеописаниеописаниеописаниеописаниe</item>
+        <item>описаниеописаниеописаниеописаниеописаниеописаниеописаниe</item>
+        <item>описаниеописаниеописаниеописаниеописаниеописаниеописаниe</item>
+        <item>описаниеописаниеописаниеописаниеописаниеописаниеописаниe</item>
+    </string-array>
+    <array name="item_1_image">
+        <item>@drawable/red</item>
+        <item>@drawable/green</item>
+        <item>@drawable/black</item>
+        <item>@drawable/blue</item>
+        <item>@drawable/fiol</item>
+        <item>@drawable/yellow</item>
+    </array>
+
+
+
+
+    <string-array name="item_2">
+        <item>Советы</item>
+    </string-array>
+    <string-array name="item_2_content">
+        <item>описаниеописаниеописаниеописаниеописаниеописаниеописаниe</item>
+    </string-array>
+    <array name="item_2_image">
+        <item>@drawable/white</item>
+    </array>
+
+
+
+    <string-array name="item_3">
+        <item>Имя1</item>
+        <item>Имя2</item>
+        <item>Имя3</item>
+        <item>Имя4</item>
+    </string-array>
+    <string-array name="item_3_content">
+        <item>описаниеописаниеописаниеописаниеописаниеописаниеописаниe</item>
+        <item>описаниеописаниеописаниеописаниеописаниеописаниеописаниe</item>
+        <item>описаниеописаниеописаниеописаниеописаниеописаниеописаниe</item>
+        <item>описаниеописаниеописаниеописаниеописаниеописаниеописаниe</item>
+        <item>описаниеописаниеописаниеописаниеописаниеописаниеописаниe</item>
+        <item>описаниеописаниеописаниеописаниеописаниеописаниеописаниe</item>
+        <item>описаниеописаниеописаниеописаниеописаниеописаниеописаниe</item>
+    </string-array>
+    <array name="item_3_image">
+        <item>@drawable/das</item>
+        <item>@drawable/das</item>
+        <item>@drawable/das</item>
+        <item>@drawable/das</item>
+        <item>@drawable/das</item>
+        <item>@drawable/das</item>
+        <item>@drawable/das</item>
+    </array>
+
+</resources>

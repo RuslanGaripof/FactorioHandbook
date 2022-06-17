@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <item android:title="Стратегия">
+        <menu>
+            <item
+                android:id="@+id/id_era1"
+                android:title="@string/era1" />
+        </menu>
+    </item>
+
+    <item android:title="Полезные материалы">
+        <menu>
+            <item
+                android:title="@string/pattern"
+                android:id="@+id/id_pattern" />
+            <item
+                android:title="@string/recom"
+                android:id="@+id/id_recom" />
+        </menu>
+    </item>
+</menu>
